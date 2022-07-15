@@ -1,0 +1,13 @@
+---
+title: "<span style='font-size: 80pt'>Silvia Téliz</style>"
+---
+
+## Hi!👋🏽 I'm a Ph.D. student<br>at the University of Pennsylvania's<br>Annenberg School for Communication.<br>I research the representation<br>of racial and skin color stereotypes<br>in mass media.<br><br>
+
+
+👉🏽 <a href="about.html">Here's more about me</a>
+
+👉🏽 <a href="CV.pdf" download>Here's my CV</a>
+
+👉🏽 <a href="https://scholar.google.com/citations?user=bEIbJF8AAAAJ&hl=en" target="_blank">Here are my publications</a>
+

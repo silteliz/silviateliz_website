@@ -1,0 +1,31 @@
+/*---------------- body ---------------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,700;1,100;1,400;1,800&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 50pt;
+}
+
+
+h2 {
+    font-family: 'Space Mono', monospace;
+    font-size: 30pt;
+    font-weight: 400;
+}
+
+body {
+    font-family: 'Space Mono', monospace;
+    font-size: 15pt;
+    font-weight: 400;
+}
+
+/*---------------- links ---------------*/
+a { 
+  color: #D1ABFF;
+}
+
+a:hover {
+ color: #FF6ADF; /* darker color when hovering */
+}

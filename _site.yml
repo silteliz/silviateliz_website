@@ -1,0 +1,14 @@
+name: "personal website"
+output_dir: docs
+navbar:
+  title: "ST"
+  left:
+    - text: "hi"
+      href: index.html
+    - text: "about me"
+      href: about.html
+output:
+  html_document:
+    include:
+      after_body: footer.html
+    css: styles.css
