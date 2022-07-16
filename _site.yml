@@ -1,12 +1,12 @@
 name: "personal website"
 output_dir: docs
 navbar:
-  title: "ST"
-  left:
-    - text: "hi"
-      href: index.html
+  title: "Silvia Téliz"
+  right:
     - text: "about me"
       href: about.html
+    - text: "contact me"
+      href: contact.html
 output:
   html_document:
     include:
