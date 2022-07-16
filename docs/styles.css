@@ -4,7 +4,7 @@
 h1 {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
-    font-size: 60pt;
+    font-size: 80pt;
 }
 
 
@@ -21,13 +21,10 @@ body {
     font-weight: 400;
 }
 
-.cols {display: flex; }
-
 
 /*---------------- links ---------------*/
 a { 
   color: #D1ABFF;
-  font-family: 'Poppins', sans-serif;
 }
 
 a:hover {
@@ -40,23 +37,32 @@ a:hover {
     background-color: #FFFFFF;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
-    font-size: 13.5pt;
-    border:1px solid #FFFFFF;
-}
-
+    font-size: 12pt;
+    border:1px solid #FFFFFF;}
+    
+    
 .navbar-default .navbar-nav>.open>a, 
 .navbar-default .navbar-nav>.active>a, 
 a.dropdown-toggle:hover {
-  background-color: #FFFFFF !important;
+  background-color: #FFFFFF !important;}
+
+
+/* Navbar title*/
+.navbar-default .navbar-brand {
+    color: #000000;
 }
 
 
-/* Navbar Links when hovered*/
+/* Navbar links*/
+.navbar-default .navbar-nav > li > a {
+    color: #D1ABFF;}
+
+
+/* Navbar links when hovered*/
 .navbar-default .navbar-nav>.active>a:hover, 
 .navbar-default .navbar-nav:hover, 
 .navbar-default .navbar-nav>li>a:hover, 
 a.navbar-brand:hover {
   color: #FF6ADF !important;
-  background-color: #FFFFFF;
-}
+  background-color: #FFFFFF;}
 

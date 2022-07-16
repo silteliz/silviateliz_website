@@ -1,17 +1,14 @@
 ---
 title: " "
 ---
-<br>
+<br><br>
 
-# Hi, I'm Silvia! 👋🏽
+# Hi, I'm Silvia! 👋🏽 
 
-## I'm a Ph.D. student at the<br>University of Pennsylvania's Annenberg School for Communication.<br>I research the representation of racial and skin color stereotypes<br>in mass media.<br><br><br>
+## I'm a Ph.D. student at the<br>University of Pennsylvania's Annenberg School for Communication.<br>I research the representation of racial and skin color stereotypes<br>in mass media.<br><br>
 
-📞 <a href="contact.html">Contact me</a>
 
 👉🏽 <a href="about.html">More about me</a>
 
-👉🏽 <a href="CV.pdf" download>My CV</a>
-
-👉🏽 <a href="https://scholar.google.com/citations?user=bEIbJF8AAAAJ&hl=en" target="_blank">My publications</a>
+📞 <a href="contact.html">Contact me</a>
 

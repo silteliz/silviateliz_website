@@ -1,5 +1,5 @@
 ---
-title: "Contact me"
+title: "📞 Contact me"
 ---
 <br>
 `r icons::fontawesome("envelope", style = "solid")` [Email](mailto:silvia.teliz@asc.upenn.edu)
