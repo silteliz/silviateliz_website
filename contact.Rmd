@@ -6,6 +6,6 @@ title: "Contact me"
 <br><br>
 `r icons::fontawesome("twitter", style = "brands")` [Twitter](https://twitter.com/SilviaTeliz)
 <br><br>
-`r icons::fontawesome("linkedin", style = "brands")` [LinkedIn](www.linkedin.com/in/silvia-teliz)
+`r icons::fontawesome("linkedin", style = "brands")` [LinkedIn](https://www.linkedin.com/in/silvia-teliz)
 <br><br>
 `r icons::fontawesome("github", style = "brands")` [Github](https://github.com/silteliz)
