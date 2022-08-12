@@ -1,7 +1,6 @@
 ---
-title: " "
+title: <span style="color:white">Silvia Téliz</span>
 ---
-<br><br>
 
 # Hi, I'm Silvia! 👋🏽 
 
